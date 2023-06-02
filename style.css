@@ -1,0 +1,49 @@
+* {
+    background: #aa4b6b;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3b8d99, #6b6b83, #aa4b6b);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.but {
+    position: relative;
+    bottom: -200px;
+    right: -545px;
+    font-size: larger;
+    width: 50px;
+    border-radius: 17px;
+    height: 50px;
+    margin: 1px;
+}
+
+.zero {
+    position: relative;
+    bottom: -200px;
+    right: -545px;
+    font-size: larger;
+    padding: auto;
+    width: 106px;
+    border-radius: 17px;
+    height: 50px;
+    margin-top: 1px;
+    margin-right: 1px;
+}
+
+#display {
+    position: relative;
+    bottom: -200px;
+    right: -545px;
+    font-size: larger;
+    padding: auto;
+    width: 215px;
+    border-radius: 17px;
+    height: 50px;
+    margin: 1px;
+}
+
+
+/*background-color: aqua;
+    background-image: -moz-repeating-radial-gradient();
+    font-style: italic;*/
