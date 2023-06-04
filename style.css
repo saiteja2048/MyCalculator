@@ -43,6 +43,21 @@
     margin: 1px;
 }
 
+@media (max-width:800px) {
+    .but {
+        top: 10px;
+        left: 30px;
+    }
+    .zero {
+        top: 10px;
+        left: 30px;
+    }
+    #display {
+        top: 10px;
+        left: 30px;
+    }
+}
+
 
 /*background-color: aqua;
     background-image: -moz-repeating-radial-gradient();
