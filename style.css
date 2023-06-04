@@ -45,16 +45,16 @@
 
 @media (max-width:800px) {
     .but {
-        top: 10px;
-        left: 30px;
+        top: 100px;
+        left: 100px;
     }
     .zero {
-        top: 10px;
-        left: 30px;
+        top: 100px;
+        left: 100px;
     }
     #display {
-        top: 10px;
-        left: 30px;
+        top: 100px;
+        left: 100px;
     }
 }
 
